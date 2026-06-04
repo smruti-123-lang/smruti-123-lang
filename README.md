@@ -34,30 +34,6 @@
   />
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smruti-123-lang&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smruti-123-lang&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smruti-123-lang&theme=tokyonight" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smruti-123-lang&theme=tokyonight&row=1&column=7" />
-</p>
 
 ---
 
@@ -82,13 +58,6 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smruti-123-lang&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
 
 ### ✨ Quote
 
