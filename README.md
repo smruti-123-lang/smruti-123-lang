@@ -47,16 +47,21 @@
 
 ## 🚀 Coding Profiles
 
+## 🚀 Coding Profiles
+
 <p align="center">
   <a href="https://leetcode.com/u/SMRUTI785/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
   <a href="https://github.com/smruti-123-lang">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://codolio.com/profile/smruti78549">
+    <img src="https://img.shields.io/badge/Codolio-00C853?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
-
----
 
 
 ### ✨ Quote
