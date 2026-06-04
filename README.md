@@ -8,7 +8,6 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science Student
 - 🌱 Currently learning **Data Structures & Algorithms**
 - 💻 Interested in **Web Development** and **App Development**
 - 🤖 Exploring **Machine Learning** and **Deep Learning**
