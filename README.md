@@ -27,11 +27,11 @@
 ## 🏆 LeetCode Badges
 
 <p align="center">
-  <img
-    src="https://leetcode-badge-showcase.vercel.app/api?username=SMRUTI785&animated=true"
-    alt="LeetCode Badges"
-    width="1000"
-  />
+  <img src="https://leetcard.jacoblin.cool/SMRUTI785?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=SMRUTI785&animated=true" />
 </p>
 
 
