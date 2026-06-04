@@ -58,9 +58,9 @@
   <a href="https://codolio.com/profile/smruti78549">
     <img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://vercel.com/smruti-123-langs-projects">
-    <img src="https://img.shields.io/badge/Vercel-Projects-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://vercel.com/smruti-123-langs-projects" target="_blank">
+  <img src="https://img.shields.io/badge/Vercel-Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Projects"/>
+</a>
 </p>
 
 ### ✨ Quote
