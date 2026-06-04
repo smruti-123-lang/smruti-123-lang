@@ -49,19 +49,18 @@
 
 <p align="center">
   <a href="https://github.com/smruti-123-lang">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://leetcode.com/u/SMRUTI785/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-
   <a href="https://codolio.com/profile/smruti78549">
-    <img src="https://img.shields.io/badge/Codolio-Coding%20Portfolio-success?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-
-[![Vercel](https://img.shields.io/badge/My%20Projects-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/smruti-123-langs-projects)
-
+  <a href="https://vercel.com/smruti-123-langs-projects">
+    <img src="https://img.shields.io/badge/Vercel-Projects-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ### ✨ Quote
 
