@@ -45,7 +45,6 @@
 
 ---
 
-## 🚀 Coding Profiles
 
 ## 🚀 Coding Profiles
 
