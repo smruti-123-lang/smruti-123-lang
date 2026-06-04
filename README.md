@@ -60,10 +60,7 @@
     <img src="https://img.shields.io/badge/Codolio-Coding%20Portfolio-success?style=for-the-badge"/>
   </a>
 
-  <a href="https://vercel.com/smruti-123-langs-projects">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+[![Vercel](https://img.shields.io/badge/My%20Projects-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/smruti-123-langs-projects)
 
 
 ### ✨ Quote
